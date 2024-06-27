@@ -17,6 +17,9 @@ git clone https://github.com/lucasbizachi-dev/carrinho-de-compras.git
 ```bash 
 cd carrinho-de-compras
 ```
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
 
 
